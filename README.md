@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ramiza Al Farishi
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, PHP, JS, etc
