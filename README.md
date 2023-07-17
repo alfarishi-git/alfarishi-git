@@ -63,5 +63,5 @@
 
 <h3 align="left">My Github Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats-ralfarishi.vercel.app/api/top-langs?username=ralfarishi&show_icons=true&locale=en&layout=compact" alt="ralfarishi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralfarishi&show_icons=true&locale=en&layout=compact" alt="ralfarishi" />
 </p>
