@@ -19,8 +19,8 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-  <a href="https://www.alfarishi.xyz/works" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=512&id=1349&format=svg" alt="Personal Web" width="45" height="45"/> 
+  <a href="https://www.alfarishi.my.id/works" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=256&id=1349&format=png" alt="Personal Web" width="45" height="45"/> 
   </a>
 </p>
 
