@@ -2,7 +2,7 @@
 <h2 align="center">A web developer from Indonesia</h2>
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning **Laravel, Express JS, etc**
+- 🌱 I’m currently learning **Laravel, React JS, etc**
 - 😅 And i'm bad at design
 
 <h3 align="left">Connect with me:</h3>
