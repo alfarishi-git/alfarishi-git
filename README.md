@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramiza Al Farishi</h1>
 <h2 align="center">A web developer from Indonesia</h2>
 
-![last commit](https://img.shields.io/github/last-commit/ralfarishi/ralfarishi)
-
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning **Laravel, Express JS, etc**
 - 😅 And i'm bad at design
